@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Final Project</title>
+<link rel="stylesheet" href="finalproject.css">
+</head>
+
+<body>
+    <h1>Victoria Marshall's Final Project</h1>
+    <div id="myDiv">
+        <p>
+            This is my final project for INFOTC 1000.
+        </p>
+    </div>
+</body>
+
+</html>
